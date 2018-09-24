@@ -1,4 +1,4 @@
-# tenpin-bowling-game
+# Tenpin bowling game
 
 ## Requirement
 - PHP 7.1
@@ -11,7 +11,7 @@
 
 - php artisan play:game "[[5,2],[8,1],[6,4],[10],[,5],[2,6],[8,1],[5,3],[6,1],[10,10,10]]"
 
-## Run Test
+## Run test
 -./vendor/bin/phpunit
 
 
